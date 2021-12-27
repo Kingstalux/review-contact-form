@@ -11,6 +11,23 @@
 - Css
 - npm
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- VS Code
+- Chrome Browser
+- Gitbash
+
+### Usage
+
+- `$ git clone https://github.com/Kingstalux/review-contact-form.git`
+- `$ cd review-contact-form`
+- run the command `code .` to open the file in VS Code
+- run the command `Shift+Alt+R` to open the file in the browser
+
 
 ## Authors
 
